@@ -17,8 +17,8 @@ public class Publisher {
 	public Publisher() {
 	}
     
-	public Publisher(String publisher) {
-		this.name = publisher;
+	public Publisher(String name) {
+		this.name = name;
 	}
 	
 	public Long getId() {
